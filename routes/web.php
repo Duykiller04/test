@@ -20,6 +20,6 @@ Route::get('/', function () {
 Route::get('/ahihi', function () {
     return view('welcome');
 });
-Route::get('/aaaaa', function () {
+Route::get('/iiiiiii', function () {
     return view('welcome');
 });
