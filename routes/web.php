@@ -19,3 +19,16 @@ Route::get('/', function () {
 Route::get('kahidz', function () {
     echo 121212;
 });
+
+Route::get('pha khám phágit pull
+git pull origin master
+git add .
+git status
+git commit -m "khaid
+epzai vcl"
+git pull
+git pull origin master
+git pushgit khai', function () {
+    echo 121212;
+});
+
